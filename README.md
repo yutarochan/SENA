@@ -1,4 +1,3 @@
-sena
+SENA
 ====
-
-Semantic Entity Network AI - An experimental approach for developing Strong AI Systems.
+Semantic Entity Neural Architecture - a novel approach (not new) to building cognitive systems using both traditional symbolic representations and probabilistic approaches.
